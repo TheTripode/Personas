@@ -47,6 +47,8 @@ public class PruebaPersona {
          System.out.println("----------------------------------");
          int dif=per1.diferenciaEdad(per2);
          System.out.println("Diferencia de edad entre persona 1 y persona 2 es de " + dif + " años");
+
+        // modificado2
     }
     
 }
